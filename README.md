@@ -2,4 +2,4 @@
 ## 安装依赖
 pip install -r requirements.txt
 ## 运行demo
-python3 
+python3 testBaiduApi.py
