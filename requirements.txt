@@ -1,7 +1,11 @@
 baidu-aip==2.2.18.0
 certifi==2021.5.30
+cffi==1.10.0
 charset-normalizer==2.0.6
 idna==3.2
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1626681920064/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 requests==2.26.0
+scipy==1.5.4
+sounddevice @ file:///home/conda/feedstock_root/build_artifacts/python-sounddevice_1601221456362/work
 urllib3==1.26.7
-##python==3.6.5
