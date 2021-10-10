@@ -6,7 +6,7 @@ import tensorflow
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = '4'
 # Importing Data
-path = "/home/lichengjun/lza/dsp实验/Speech-Recognition-System/Spoken-Digit-Recognition/Dataset"
+path = "/home/lichengjun/lza/dsp实验/Speech-Recognition-System/Spoken-Digit-Recognition/Dataset"##修改成你自己的路径
 files = librosa.util.find_files(path, ext=['wav']) 
 files = np.asarray(files)
 
